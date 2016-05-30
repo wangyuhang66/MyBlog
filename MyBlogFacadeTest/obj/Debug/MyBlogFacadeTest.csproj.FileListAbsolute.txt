@@ -1,0 +1,11 @@
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogFacadeTest.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogFacadeTest.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\obj\Debug\MyBlogFacadeTest.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\obj\Debug\MyBlogFacadeTest.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\obj\Debug\MyBlogFacadeTest.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogDataDefine.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogFacade.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogDBAccessor.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogDataDefine.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogFacade.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacadeTest\bin\Debug\MyBlogDBAccessor.pdb

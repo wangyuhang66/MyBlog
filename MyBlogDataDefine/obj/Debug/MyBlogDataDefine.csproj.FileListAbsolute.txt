@@ -1,0 +1,5 @@
+C:\Users\wyh\Desktop\MyBlog\MyBlogDataDefine\bin\Debug\MyBlogDataDefine.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogDataDefine\bin\Debug\MyBlogDataDefine.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogDataDefine\obj\Debug\MyBlogDataDefine.dll
+C:\Users\wyh\Desktop\MyBlog\MyBlogDataDefine\obj\Debug\MyBlogDataDefine.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogDataDefine\obj\Debug\MyBlogDataDefine.csprojResolveAssemblyReference.cache
