@@ -1,31 +1,112 @@
-﻿@{
-    ViewBag.Title = "Home Page";
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
-</div>
-
-<div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+<!--主要内容 -->
+<div class="container-fluid main-container" id="main-container">
+    <div class="row top-title">
+        <div class="col-md-12">
+            <h1 class="page-title">
+                最新文章
+            </h1>
+        </div>
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    <!--main Start-->
+    <div class="row">
+        <div class="col-md-12 post-container">
+            <h2 class="post-title">
+                <a href="content.html" title="">异步测试文章</a>
+            </h2>
+            <div class="meta-box">
+                <span class="m-post-date">
+                    <i class="fa fa-calendar-o">
+                    </i>
+                    2015年6月3日
+                </span>
+                <span class="comments-link">
+                    <a href="" class="ds-thread-count" data-thread-key="9500" title="Comment on 毕业两周年">
+                        <i class="fa fa-comments-o">
+                        </i>
+                        留言
+                    </a>
+                </span>
+            </div>
+            <div class="post-content">
+                <p>
+                    如果您在使用中遇到什么麻烦的事情,那么baby千万不要捶胸顿足,在友情链接界面您会看到作者的博客链接，您可以通过访问作者的博客留言联系我
+                    <a href="http://www.ybsat.com">
+                        联系我
+                    </a>
+                </p>
+            </div>
+            <div class="meta-box">
+                <span class="cat-links">
+                    <i class="fa fa-navicon">
+                    </i>
+                    <b>
+                        分类:
+                    </b>
+                    <a href="topics/life/diary.htm">
+                        测试
+                    </a>
+                </span>
+                <span class="tag-links">
+                    <i class="fa fa-tags">
+                    </i>
+                    <b>
+                        标签:
+                    </b>
+                    <a href="tags/毕业.htm" rel="tag">
+                        异步
+                    </a>
+                </span>
+            </div>
+        </div>
     </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    <!--更多内容-->
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="page-title">
+                <a href="blog.html" title="">更多内容</a>
+            </h2>
+        </div>
+    </div>
+    <!--跳转至博客页面-->
+    <div class="row">
+        <div class="col-md-12 post-container">
+            <div class="row">
+                <div class="col-md-4">
+                    <a class="btn btn-primary home-browser-more-btn" href="blog.html">
+                        <span>浏览更多文章</span>
+                    </a>
+                </div>
+                <div class="col-md-8">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--推荐阅读-->
+    <div class="row">
+        <div class="col-md-12 post-container m-recommend-page">
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="" class="thumbnail">
+                        <img src="assets/img/works.png" alt="作品展示">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="" class="thumbnail">
+                        <img src="assets/img/study.png" alt="学习生活">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="" class="thumbnail">
+                        <img src="assets/img/book.png" alt="作品推荐">
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>

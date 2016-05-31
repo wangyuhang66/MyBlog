@@ -78,3 +78,4 @@ C:\Users\wyh\Desktop\MyBlog\MyBlog\bin\MyBlogDBAccessor.dll
 C:\Users\wyh\Desktop\MyBlog\MyBlog\bin\MyBlogDataDefine.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlog\bin\MyBlogFacade.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlog\bin\MyBlogDBAccessor.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlog\bin\MySql.Data.dll

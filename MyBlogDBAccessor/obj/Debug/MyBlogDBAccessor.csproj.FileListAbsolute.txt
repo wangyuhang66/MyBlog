@@ -8,3 +8,4 @@ C:\Users\wyh\Desktop\MyBlog\MyBlogDBAccessor\bin\Debug\MyBlogDataDefine.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogDBAccessor\bin\Debug\Dapper.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogDBAccessor\bin\Debug\Dapper.xml
 C:\Users\wyh\Desktop\MyBlog\MyBlogDBAccessor\obj\Debug\MyBlogDBAccessor.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\MyBlog\MyBlogDBAccessor\bin\Debug\MySql.Data.dll

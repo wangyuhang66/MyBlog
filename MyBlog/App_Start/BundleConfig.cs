@@ -26,6 +26,20 @@ namespace MyBlog
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new StyleBundle("~/MyBlog/js").Include(
+                   "~/Scripts/jquery.nivo.slider.pack.js",
+                   "~/Scripts/nprogress.js"
+                ));
+
+            bundles.Add(new StyleBundle("~/MyBlog/css").Include(
+                "~/Content/bootstrap.min.css",
+                "~/Content/default.css",
+                "~/Content/nivo-slider.css",
+                "~/Content/nprogress.css",
+                "~/Content/signin.css",
+                "~/Content/style.css"
+                ));
         }
     }
 }

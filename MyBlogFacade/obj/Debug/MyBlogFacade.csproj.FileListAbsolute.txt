@@ -9,3 +9,4 @@ C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogDBAccessor.dll
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogCaheAccessor.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogDataDefine.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogDBAccessor.pdb
+C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MySql.Data.dll
