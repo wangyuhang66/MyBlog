@@ -3,3 +3,8 @@ C:\Users\wyh\Desktop\MyBlog\MyBlogCaheAccessor\bin\Debug\MyBlogCaheAccessor.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.dll
 C:\Users\wyh\Desktop\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogCaheAccessor\bin\Debug\MyBlogCaheAccessor.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogCaheAccessor\bin\Debug\MyBlogCaheAccessor.pdb
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogCaheAccessor\obj\Debug\MyBlogCaheAccessor.pdb

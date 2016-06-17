@@ -10,3 +10,14 @@ C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogCaheAccessor.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogDataDefine.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MyBlogDBAccessor.pdb
 C:\Users\wyh\Desktop\MyBlog\MyBlogFacade\bin\Debug\MySql.Data.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogFacade.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogFacade.pdb
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogCaheAccessor.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogDataDefine.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogDBAccessor.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogCaheAccessor.pdb
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogDataDefine.pdb
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\bin\Debug\MyBlogDBAccessor.pdb
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\obj\Debug\MyBlogFacade.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\obj\Debug\MyBlogFacade.dll
+C:\Users\wyh\Desktop\GItHub\MyBlog\MyBlogFacade\obj\Debug\MyBlogFacade.pdb
